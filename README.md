@@ -2,7 +2,7 @@
 
 将本项目fork或者上传至自己仓库修改`Deploy to Heroku`按键指向地址为自己仓库地址
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/louyour/nginx-Manual.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/sebuiejw6/v2ray-nginx-custom.git)
 
 ### heroku上部署v2ray
 
